@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1734158929 source:c:\users\lenovo\desktop\game c++\game\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+	"Card.h"
+	"Deck.h"
+	"Player.h"
+	"Game.h"
+
+1733708562 c:\users\lenovo\desktop\game c++\game\card.h
+	<string>
+	<iostream>
+
+1733706191 c:\users\lenovo\desktop\game c++\game\deck.h
+	<iostream>
+	<vector>
+	"Card.h"
+
+1733709328 c:\users\lenovo\desktop\game c++\game\player.h
+	<iostream>
+	<string>
+
+1733711324 c:\users\lenovo\desktop\game c++\game\game.h
+	"Deck.h"
+	"Player.h"
+	<iostream>
+	<string>
+
+1734815708 source:c:\users\lenovo\desktop\game c++ manon (2)\game c++ manon\game c++\game\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+	"Card.h"
+	"Deck.h"
+	"Player.h"
+	"Game.h"
+
+1734815708 c:\users\lenovo\desktop\game c++ manon (2)\game c++ manon\game c++\game\card.h
+	<string>
+	<iostream>
+
+1734815708 c:\users\lenovo\desktop\game c++ manon (2)\game c++ manon\game c++\game\deck.h
+	<iostream>
+	<vector>
+	"Card.h"
+
+1734815708 c:\users\lenovo\desktop\game c++ manon (2)\game c++ manon\game c++\game\player.h
+	<iostream>
+	<string>
+
+1734815708 c:\users\lenovo\desktop\game c++ manon (2)\game c++ manon\game c++\game\game.h
+	"Deck.h"
+	"Player.h"
+	<iostream>
+	<string>
+
